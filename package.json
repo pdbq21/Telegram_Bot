@@ -1,0 +1,11 @@
+{
+  "name": "Telegram_Bot",
+  "version": "1.0.0",
+  "description": "test version bot for Telegram",
+  "main": "index.js",
+  "author": "ruslan",
+  "license": "MIT",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.27.1"
+  }
+}
